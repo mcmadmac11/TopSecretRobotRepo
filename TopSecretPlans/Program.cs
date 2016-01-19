@@ -10,6 +10,14 @@ namespace TopSecretPlans
     {
         static void Main(string[] args)
         {
+            ReactorCore reactorCore = new ReactorCore(188, 90, 5, 90, 75, 50, 50);
+            
+            reactorCore.EvasionCheck(188, 90, 5, 90, 75, 50, 50);
+
+            
+
+
+
         }
     }
 }
