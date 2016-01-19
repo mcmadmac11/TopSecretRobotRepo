@@ -10,6 +10,11 @@ namespace TopSecretPlans
     {
         static void Main(string[] args)
         {
-        }
+            HyperDrive hd = new HyperDrive("", 100, 4, true);
+            Destination newDestination = new Destination();
+            newDestination.getDestination();
+
+
+        }   
     }
 }

@@ -14,7 +14,6 @@ namespace TopSecretPlans
         public bool hyperDriveExecution;
         public HyperDrive(string destination, int fuelCellLevel, int GraveityLevel, bool hyperDriveExecution)
         {
-           
 
         }
         public bool IsHyperDriveExecuted()
