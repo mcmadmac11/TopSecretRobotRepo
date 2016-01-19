@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace TopSecretPlans
 {
-    class Program
+    class PowerCell
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }
